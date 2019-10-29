@@ -1,0 +1,25 @@
+
+button{
+    width:15% ;
+    background: green;
+    color: azure;
+}
+label{
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+input{
+    background: #ddd;
+    display: block;
+    text-align: center;
+    transition: 0.3s linear;
+    -webkit-transition: 0.3s linear;
+    -moz-transition: 0.3s linear;
+    -ms-transition: 0.3s linear;
+    -o-transition: 0.3s linear;
+}
+input:hover{
+    box-shadow: 1px 1px  gray;
+
+}
